@@ -32,4 +32,11 @@ Cách 2: SQL Server Authentication
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/41fdf62c-39f5-49e3-b5c8-747bc3ef7b16" />
 
-6. 
+6. Tạo CSDL mới
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce789df6-84a5-4509-bbf8-2738303496b8" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f52bd6dc-ed8f-4e82-9fea-a6f1b1851f94" />
+
+7. Tạo bảng
+
