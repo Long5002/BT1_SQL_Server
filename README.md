@@ -44,4 +44,37 @@ Cách 2: SQL Server Authentication
 
 8. Import dữ liệu
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a082d2bc-5a93-4298-a394-6fe004a20bdb" />
+
+9. Kiểm tra số dòng sau khi import
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/54cd5f44-7764-4a4b-a42b-9e32c499151d" />
+
+10. Insert thông tin cá nhân sinh viên đang làm bài
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2819e71c-c095-4790-9287-b9679986e6ec" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/faf56ba6-f6ef-4e90-a33d-c140ade610fc" />
+
+11. Cập nhật noisinh 'SaoHoa'
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/58741f6d-030c-44bb-932d-75daec3a476d" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/99fac437-dc24-4c28-b9bd-9d82bd1bdfa2" />
+
+12. Tạo bảng SaoHoa
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1bbec4db-d47d-468e-a27b-4590facc5cb4" />
+
+13. Xóa sinh viên cùng họ trong bảng SaoHoa
+
+Có 479 sinh viên cùng họ "Nguyễn"
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cc3b274a-3be8-4c9e-8cf9-03b90a7c1582" />
+
+Xóa 479 sinh viên đó
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c78ba297-d2b1-461d-809e-56b7fa7a355c" />
+
+14. Xuất toàn bộ kết quả ra file dulieu.sql
 
