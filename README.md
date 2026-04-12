@@ -100,3 +100,4 @@ Kết quả:
 
 17. Upload file dulieu.sql lên github
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fa5900d5-e0e5-4a2a-805e-ffbaf3810aa0" />
