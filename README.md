@@ -78,3 +78,25 @@ Xóa 479 sinh viên đó
 
 14. Xuất toàn bộ kết quả ra file dulieu.sql
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3050f5cf-2b37-4e29-9300-cdc99d4c5cec" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d58fea2-93e9-429b-834c-7f4ba681a77b" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6e2fd434-8703-41e6-bc71-74b9ade6a156" />
+
+15. Xóa csdl đã tạo và kiểm tra còn 2 file bước 6 không
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b7a611dd-71df-4d5c-9364-0903df3d72a0" />
+
+Kết quả:
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6d5a359b-3e8b-4541-a8fa-6d16dfd87641" />
+
+16. Tạo cửa sổ mới để mở file dulieu.sql của bước 14
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2dfa38f8-f79c-43be-9364-1b74a5f57989" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6607c7a9-34a4-472c-abdf-12d06b6c746f" />
+
+17. Upload file dulieu.sql lên github
+
