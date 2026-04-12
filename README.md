@@ -40,3 +40,8 @@ Cách 2: SQL Server Authentication
 
 7. Tạo bảng
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a6d60910-a4e1-460a-b839-f5814ff9e668" />
+
+8. Import dữ liệu
+
+
